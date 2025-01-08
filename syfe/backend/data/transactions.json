@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "amount": 500,
+      "date": "2023-12-01",
+      "category": "Food",
+      "description": "Grocery shopping"
+    },
+    {
+      "id": 2,
+      "amount": 1000,
+      "date": "2023-12-05",
+      "category": "Rent",
+      "description": "Monthly rent payment"
+    },
+    {
+      "id": 3,
+      "amount": 200,
+      "date": "2023-12-10",
+      "category": "Entertainment",
+      "description": "Movie night"
+    }
+  ]
