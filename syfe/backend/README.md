@@ -21,21 +21,12 @@ This repository contains the backend code. Follow the steps below to set up and 
    ```bash
    npm install
 
-4. Configure Environment Variables
-Create a .env file in the root directory and define the necessary environment variables:
-
-   ```bash
-   DB_HOST=your_database_host
-   DB_USER=your_database_user
-   DB_PASS=your_database_password
-   JWT_SECRET=your_jwt_secret
-
-5. Run the npm install command to install all the required dependencies:
+4. Run the npm install command to install all the required dependencies:
 
    ```bash
    node server.js
 
-6. Access the backend server at:
+5. Access the backend server at:
 
    ```bash
    http://localhost:5000
