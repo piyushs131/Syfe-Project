@@ -16,8 +16,7 @@ This frontend system serves as the user-facing interface of the application, des
 
   ### 1. **Clone the Repository**
 
-        git clone https://github.com/your-username/your-repository.git
-
+        https://github.com/piyushs131/Syfe-Project.git
 
 ### 2. **Navigate to the Frontend Directory**
 
@@ -33,6 +32,12 @@ This frontend system serves as the user-facing interface of the application, des
       
 ### 5. **Build for Production**
        npm run build
+       
+### 6. **Access the Backend Server at**
+       http://localhost:3000
+
+
+
 
 
 
