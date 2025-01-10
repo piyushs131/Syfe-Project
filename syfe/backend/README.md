@@ -12,7 +12,10 @@ This repository contains the backend code. Follow the steps below to set up and 
    ```bash
       https://github.com/piyushs131/Syfe-Project.git
    
-2. Clone the repository:
+2. Navigate to the backend directory:
+
+
+
    ```bash
    cd Syfe/backend
 
@@ -21,8 +24,7 @@ This repository contains the backend code. Follow the steps below to set up and 
    ```bash
    npm install
 
-4. Run the npm install command to install all the required dependencies:
-
+4. Start the backend server: 
    ```bash
    node server.js
 
